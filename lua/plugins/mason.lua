@@ -7,6 +7,7 @@ return {
       "shfmt",
       "pyproject-flake8",
       "flake8",
+      "mypy",
       "isort",
       "black",
       "debugpy",
