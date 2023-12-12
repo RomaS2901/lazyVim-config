@@ -8,7 +8,7 @@ return {
   end,
   keys = {
     {
-      "<leader>cde",
+      "<leader>ce",
       function()
         require("dotenv").command()
       end,
