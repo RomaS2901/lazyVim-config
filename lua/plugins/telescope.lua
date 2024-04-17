@@ -7,4 +7,7 @@ return {
       require("telescope").load_extension("fzf")
     end,
   },
+  config = function()
+    require("telescope").load_extension("rest")
+  end,
 }

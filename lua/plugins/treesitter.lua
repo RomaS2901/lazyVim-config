@@ -12,6 +12,9 @@ return {
       "regex",
       "vim",
       "yaml",
+      "xml",
+      "http",
+      "graphql",
     },
   },
 }
